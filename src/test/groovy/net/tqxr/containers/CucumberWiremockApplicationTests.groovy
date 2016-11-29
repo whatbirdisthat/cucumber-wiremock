@@ -1,4 +1,4 @@
-package tqxr.containers
+package net.tqxr.containers
 
 import org.junit.Test
 import org.junit.runner.RunWith
